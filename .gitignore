@@ -5,3 +5,5 @@ CSharpKoans.Test/bin
 CSharpKoans.Test/obj
 *.suo
 *.user
+*.exe
+*.pdb
